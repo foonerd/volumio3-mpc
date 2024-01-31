@@ -9,7 +9,7 @@ This repo is intended for [Volumio music player](https://volumio.com/) MPD enhan
 
 | Folder           | Content                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------- |
-| /packages/static | Compiled and ready to use packages for Volumio3Compiled and ready for use packages. |
+| /packages/static | Compiled and ready to use packages for Volumio3 |
 | /packages/debug  | The usual – extra debug packages for curious minds                                 |
 | /sources         | Complete sources for the build.                                                     |
 
